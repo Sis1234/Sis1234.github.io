@@ -1,0 +1,214 @@
+[
+    {
+        "id": "pollo-01",
+        "titulo": "Pollo Económico",
+        "imagen": "./img/pollo/01.jpg",
+        "categoria": {
+            "nombre": "Pollo",
+            "id": "pollo"
+        },
+        "precio": 20
+    },
+    {
+        "id": "pollo-02",
+        "titulo": "Pollo Doble Presa",
+        "imagen": "./img/pollo/02.jpg",
+        "categoria": {
+            "nombre": "Pollo",
+            "id": "pollo"
+        },
+        "precio": 30
+    },
+    {
+        "id": "pollo-03",
+        "titulo": "Nuggets de Pollo",
+        "imagen": "./img/pollo/03.jpg",
+        "categoria": {
+            "nombre": "Pollo",
+            "id": "pollo"
+        },
+        "precio": 35
+    },
+    {
+        "id": "pollo-04",
+        "titulo": "Piernas de Pollo",
+        "imagen": "./img/pollo/04.jpg",
+        "categoria": {
+            "nombre": "Pollo",
+            "id": "pollo"
+        },
+        "precio": 45
+    },
+    {
+        "id": "pollo-05",
+        "titulo": "Alitas a la Canasta",
+        "imagen": "./img/pollo/05.jpg",
+        "categoria": {
+            "nombre": "Pollo",
+            "id": "pollo"
+        },
+        "precio": 70
+    },
+    {
+        "id": "pollo-06",
+        "titulo": "Pollo a la Canasta",
+        "imagen": "./img/pollo/06.jpg",
+        "categoria": {
+            "nombre": "Pollo",
+            "id": "pollo"
+        },
+        "precio": 50
+    },
+    {
+        "id": "platos-01",
+        "titulo": "Pollo Coreano",
+        "imagen": "./img/platos/01.jpg",
+        "categoria": {
+            "nombre": "Platos extra",
+            "id": "platos"
+        },
+        "precio": 25
+    },
+    {
+        "id": "platos-02",
+        "titulo": "Salchi-Pollo",
+        "imagen": "./img/platos/02.jpg",
+        "categoria": {
+            "nombre": "Platos extra",
+            "id": "platos"
+        },
+        "precio": 25
+    },
+    {
+        "id": "platos-03",
+        "titulo": "Milanesa de Pollo",
+        "imagen": "./img/platos/03.jpg",
+        "categoria": {
+            "nombre": "Platos extra",
+            "id": "platos"
+        },
+        "precio": 25
+    },
+    {
+        "id": "platos-04",
+        "titulo": "Pollo Spiedo",
+        "imagen": "./img/platos/04.jpg",
+        "categoria": {
+            "nombre": "Platos extra",
+            "id": "platos"
+        },
+        "precio": 30
+    },
+    {
+        "id": "platos-05",
+        "titulo": "Pollo Relleno",
+        "imagen": "./img/platos/05.jpg",
+        "categoria": {
+            "nombre": "Platos extra",
+            "id": "platos"
+        },
+        "precio": 50
+    },
+    {
+        "id": "platos-06",
+        "titulo": "Pollo a la Barbacoa",
+        "imagen": "./img/platos/06.jpg",
+        "categoria": {
+            "nombre": "Platos extra",
+            "id": "platos"
+        },
+        "precio": 30
+    },
+
+    {
+        "id": "bebidas-01",
+        "titulo": "Coca-Cola Zero",
+        "imagen": "./img/bebidas/01.jpg",
+        "categoria": {
+            "nombre": "Bebidas",
+            "id": "bebidas"
+        },
+        "precio": 6
+    },
+    {
+        "id": "bebidas-02",
+        "titulo": "Fanta",
+        "imagen": "./img/bebidas/02.jpg",
+        "categoria": {
+            "nombre": "Bebidas",
+            "id": "bebidas"
+        },
+        "precio": 3
+    },
+    {
+        "id": "bebidas-03",
+        "titulo": "Sprite",
+        "imagen": "./img/bebidas/03.jpg",
+        "categoria": {
+            "nombre": "Bebidas",
+            "id": "bebidas"
+        },
+        "precio": 3
+    },
+    {
+        "id": "bebidas-04",
+        "titulo": "Coca-Cola Familiar",
+        "imagen": "./img/bebidas/04.jpg",
+        "categoria": {
+            "nombre": "Bebidas",
+            "id": "bebidas"
+        },
+        "precio": 15
+    },
+    {
+        "id": "bebidas-05",
+        "titulo": "Inca Kola",
+        "imagen": "./img/bebidas/05.jpg",
+        "categoria": {
+            "nombre": "Bebidas",
+            "id": "bebidas"
+        },
+        "precio": 16
+    },
+    {
+        "id": "bebidas-06",
+        "titulo": "Refresco de Mocochinchi",
+        "imagen": "./img/bebidas/06.jpg",
+        "categoria": {
+            "nombre": "Bebidas",
+            "id": "bebidas"
+        },
+        "precio": 5
+    },
+    {
+        "id": "bebidas-07",
+        "titulo": "Refresco de Cebada",
+        "imagen": "./img/bebidas/07.jpg",
+        "categoria": {
+            "nombre": "Bebidas",
+            "id": "bebidas"
+        },
+        "precio": 5
+    },
+    {
+        "id": "bebidas-08",
+        "titulo": "Vaso de Coca-Cola",
+        "imagen": "./img/bebidas/08.jpg",
+        "categoria": {
+            "nombre": "Bebidas",
+            "id": "bebidas"
+        },
+        "precio": 5
+    },
+    {
+        "id": "bebidas-09",
+        "titulo": "Agua Vital",
+        "imagen": "./img/bebidas/09.jpg",
+        "categoria": {
+            "nombre": "Bebidas",
+            "id": "bebidas"
+        },
+        "precio": 5
+    }
+
+]
